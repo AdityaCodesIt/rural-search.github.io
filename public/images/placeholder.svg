@@ -1,0 +1,6 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  <rect x="50" y="50" width="300" height="200" fill="#C96B3B" opacity="0.1" rx="10"/>
+  <text x="200" y="140" font-family="Arial, sans-serif" font-size="16" fill="#C96B3B" text-anchor="middle">RuralReach</text>
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Product Image</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="mango1" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#FFA500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF8C00;stop-opacity:1" />
+    </radialGradient>
+    <radialGradient id="mango2" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#FFFF99;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Basket -->
+  <ellipse cx="150" cy="240" rx="80" ry="20" fill="#8B4513"/>
+  <rect x="70" y="220" width="160" height="20" fill="#D2691E"/>
+  <path d="M 70 220 Q 70 200 90 200 L 210 200 Q 230 200 230 220" fill="none" stroke="#8B4513" stroke-width="3"/>
+  
+  <!-- Basket weave pattern -->
+  <line x1="80" y1="200" x2="80" y2="240" stroke="#654321" stroke-width="1"/>
+  <line x1="100" y1="200" x2="100" y2="240" stroke="#654321" stroke-width="1"/>
+  <line x1="120" y1="200" x2="120" y2="240" stroke="#654321" stroke-width="1"/>
+  <line x1="140" y1="200" x2="140" y2="240" stroke="#654321" stroke-width="1"/>
+  <line x1="160" y1="200" x2="160" y2="240" stroke="#654321" stroke-width="1"/>
+  <line x1="180" y1="200" x2="180" y2="240" stroke="#654321" stroke-width="1"/>
+  <line x1="200" y1="200" x2="200" y2="240" stroke="#654321" stroke-width="1"/>
+  <line x1="220" y1="200" x2="220" y2="240" stroke="#654321" stroke-width="1"/>
+  
+  <!-- Mangoes -->
+  <ellipse cx="120" cy="180" rx="25" ry="35" fill="url(#mango1)"/>
+  <ellipse cx="180" cy="175" rx="28" ry="38" fill="url(#mango2)"/>
+  <ellipse cx="150" cy="160" rx="26" ry="36" fill="url(#mango1)"/>
+  <ellipse cx="100" cy="200" rx="22" ry="32" fill="url(#mango2)"/>
+  <ellipse cx="200" cy="195" rx="24" ry="34" fill="url(#mango1)"/>
+  
+  <!-- Mango stems -->
+  <rect x="118" y="145" width="4" height="8" fill="#228B22"/>
+  <rect x="178" y="137" width="4" height="8" fill="#228B22"/>
+  <rect x="148" y="124" width="4" height="8" fill="#228B22"/>
+  <rect x="98" y="168" width="4" height="8" fill="#228B22"/>
+  <rect x="198" y="161" width="4" height="8" fill="#228B22"/>
+  
+  <!-- Leaves -->
+  <ellipse cx="125" cy="142" rx="8" ry="4" fill="#32CD32"/>
+  <ellipse cx="185" cy="134" rx="8" ry="4" fill="#32CD32"/>
+  <ellipse cx="155" cy="121" rx="8" ry="4" fill="#32CD32"/>
+  
+  <!-- Background elements -->
+  <circle cx="50" cy="50" r="15" fill="#2D6A4F" opacity="0.2"/>
+  <circle cx="250" cy="60" r="12" fill="#C96B3B" opacity="0.2"/>
+  <circle cx="40" cy="120" r="10" fill="#FFD700" opacity="0.3"/>
+  <circle cx="260" cy="140" r="8" fill="#FF6347" opacity="0.3"/>
+  
+  <text x="150" y="40" font-family="Arial, sans-serif" font-size="18" fill="#C96B3B" text-anchor="middle" font-weight="bold">Alphonso Mangoes</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Fresh from Konkan Farms</text>
+</svg>

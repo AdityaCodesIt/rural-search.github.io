@@ -1,0 +1,58 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="honey" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.9" />
+      <stop offset="70%" style="stop-color:#FFA500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF8C00;stop-opacity:1" />
+    </radialGradient>
+    <linearGradient id="jar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5F5DC;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#E6E6FA;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Honey jar -->
+  <rect x="100" y="120" width="100" height="120" fill="url(#jar)" rx="5"/>
+  <rect x="105" y="125" width="90" height="110" fill="url(#honey)" rx="3"/>
+  
+  <!-- Jar lid -->
+  <ellipse cx="150" cy="120" rx="50" ry="8" fill="#8B4513"/>
+  <ellipse cx="150" cy="115" rx="50" ry="8" fill="#D2691E"/>
+  
+  <!-- Label -->
+  <rect x="110" y="160" width="80" height="40" fill="#FFF" opacity="0.9" rx="3"/>
+  <text x="150" y="175" font-family="Arial, sans-serif" font-size="10" fill="#8B4513" text-anchor="middle" font-weight="bold">Pure Honey</text>
+  <text x="150" y="185" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Sahyadri Hills</text>
+  <text x="150" y="195" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">500g</text>
+  
+  <!-- Bees -->
+  <ellipse cx="60" cy="80" rx="8" ry="5" fill="#FFD700"/>
+  <ellipse cx="60" cy="80" rx="6" ry="3" fill="#000" opacity="0.3"/>
+  <line x1="52" y1="80" x2="48" y2="78" stroke="#000" stroke-width="1"/>
+  <line x1="52" y1="80" x2="48" y2="82" stroke="#000" stroke-width="1"/>
+  <line x1="68" y1="80" x2="72" y2="78" stroke="#000" stroke-width="1"/>
+  <line x1="68" y1="80" x2="72" y2="82" stroke="#000" stroke-width="1"/>
+  
+  <ellipse cx="240" cy="100" rx="8" ry="5" fill="#FFD700"/>
+  <ellipse cx="240" cy="100" rx="6" ry="3" fill="#000" opacity="0.3"/>
+  <line x1="232" y1="100" x2="228" y2="98" stroke="#000" stroke-width="1"/>
+  <line x1="232" y1="100" x2="228" y2="102" stroke="#000" stroke-width="1"/>
+  <line x1="248" y1="100" x2="252" y2="98" stroke="#000" stroke-width="1"/>
+  <line x1="248" y1="100" x2="252" y2="102" stroke="#000" stroke-width="1"/>
+  
+  <!-- Honeycomb pattern -->
+  <polygon points="40,50 50,45 60,50 60,60 50,65 40,60" fill="#FFD700" opacity="0.6"/>
+  <polygon points="50,45 60,40 70,45 70,55 60,60 50,55" fill="#FFA500" opacity="0.6"/>
+  
+  <polygon points="220,60 230,55 240,60 240,70 230,75 220,70" fill="#FFD700" opacity="0.6"/>
+  <polygon points="230,55 240,50 250,55 250,65 240,70 230,65" fill="#FFA500" opacity="0.6"/>
+  
+  <!-- Dripping honey -->
+  <path d="M 145 235 Q 147 245 145 250 Q 143 245 145 235" fill="url(#honey)"/>
+  <path d="M 155 235 Q 157 245 155 250 Q 153 245 155 235" fill="url(#honey)"/>
+  
+  <text x="150" y="30" font-family="Arial, sans-serif" font-size="18" fill="#8B4513" text-anchor="middle" font-weight="bold">Sahyadri Honey</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Raw & Unprocessed</text>
+</svg>

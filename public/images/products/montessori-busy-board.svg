@@ -1,0 +1,76 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Main board -->
+  <rect x="50" y="60" width="200" height="180" fill="#8B4513" rx="10"/>
+  <rect x="55" y="65" width="190" height="170" fill="#D2691E" rx="8"/>
+  
+  <!-- Activity sections -->
+  
+  <!-- Switches section -->
+  <rect x="70" y="80" width="50" height="30" fill="#F5DEB3" rx="3"/>
+  <rect x="75" y="90" width="15" height="8" fill="#FF6347" rx="2"/>
+  <rect x="95" y="90" width="15" height="8" fill="#32CD32" rx="2"/>
+  <circle cx="82" cy="94" r="2" fill="#FFF"/>
+  <circle cx="102" cy="94" r="2" fill="#FFF"/>
+  
+  <!-- Fidget spinner -->
+  <circle cx="180" cy="95" r="20" fill="#4682B4"/>
+  <circle cx="180" cy="95" r="15" fill="#87CEEB"/>
+  <circle cx="165" cy="95" r="8" fill="#1E90FF"/>
+  <circle cx="195" cy="95" r="8" fill="#1E90FF"/>
+  <circle cx="180" cy="80" r="8" fill="#1E90FF"/>
+  <circle cx="180" cy="110" r="8" fill="#1E90FF"/>
+  <circle cx="180" cy="95" r="5" fill="#000080"/>
+  
+  <!-- Gears section -->
+  <circle cx="90" cy="150" r="15" fill="#FFD700"/>
+  <circle cx="90" cy="150" r="12" fill="#FFA500"/>
+  <path d="M 78 150 L 82 145 L 82 155 Z" fill="#FFD700"/>
+  <path d="M 102 150 L 98 145 L 98 155 Z" fill="#FFD700"/>
+  <path d="M 90 138 L 85 142 L 95 142 Z" fill="#FFD700"/>
+  <path d="M 90 162 L 85 158 L 95 158 Z" fill="#FFD700"/>
+  
+  <circle cx="120" cy="150" r="12" fill="#FF69B4"/>
+  <circle cx="120" cy="150" r="9" fill="#FF1493"/>
+  <path d="M 108 150 L 112 146 L 112 154 Z" fill="#FF69B4"/>
+  <path d="M 132 150 L 128 146 L 128 154 Z" fill="#FF69B4"/>
+  
+  <!-- Zipper -->
+  <rect x="160" y="140" width="60" height="20" fill="#9370DB" rx="10"/>
+  <rect x="165" y="145" width="50" height="10" fill="#8A2BE2" rx="5"/>
+  <circle cx="190" cy="150" r="4" fill="#C0C0C0"/>
+  <rect x="188" y="148" width="4" height="4" fill="#A9A9A9"/>
+  
+  <!-- Buttons -->
+  <circle cx="80" cy="190" r="8" fill="#FF6347"/>
+  <circle cx="100" cy="190" r="8" fill="#32CD32"/>
+  <circle cx="120" cy="190" r="8" fill="#1E90FF"/>
+  <circle cx="140" cy="190" r="8" fill="#FFD700"/>
+  
+  <!-- Laces/strings -->
+  <rect x="170" y="180" width="40" height="30" fill="#F5DEB3" rx="3"/>
+  <circle cx="180" cy="190" r="3" fill="#8B4513"/>
+  <circle cx="190" cy="190" r="3" fill="#8B4513"/>
+  <circle cx="200" cy="190" r="3" fill="#8B4513"/>
+  <path d="M 180 190 Q 185 185 190 190" stroke="#654321" stroke-width="2" fill="none"/>
+  <path d="M 190 190 Q 195 185 200 190" stroke="#654321" stroke-width="2" fill="none"/>
+  
+  <!-- Lock mechanism -->
+  <rect x="80" y="210" width="25" height="15" fill="#C0C0C0" rx="2"/>
+  <circle cx="92" cy="217" r="4" fill="#A9A9A9"/>
+  <rect x="88" y="213" width="8" height="8" fill="#808080" rx="1"/>
+  
+  <!-- Velcro strips -->
+  <rect x="130" y="210" width="30" height="8" fill="#228B22"/>
+  <rect x="130" y="220" width="30" height="8" fill="#32CD32"/>
+  
+  <!-- Corner decorations -->
+  <circle cx="65" cy="75" r="3" fill="#FFD700"/>
+  <circle cx="235" cy="75" r="3" fill="#FF6347"/>
+  <circle cx="65" cy="225" r="3" fill="#32CD32"/>
+  <circle cx="235" cy="225" r="3" fill="#1E90FF"/>
+  
+  <text x="150" y="35" font-family="Arial, sans-serif" font-size="16" fill="#C96B3B" text-anchor="middle" font-weight="bold">7-in-1 Busy Board</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Montessori Sensory Toy</text>
+</svg>

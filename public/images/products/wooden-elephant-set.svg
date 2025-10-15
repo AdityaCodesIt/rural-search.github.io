@@ -1,0 +1,62 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Large elephant -->
+  <ellipse cx="120" cy="180" rx="45" ry="35" fill="#8B4513"/>
+  <ellipse cx="120" cy="175" rx="40" ry="30" fill="#D2691E"/>
+  
+  <!-- Elephant head -->
+  <circle cx="120" cy="140" r="25" fill="#D2691E"/>
+  <ellipse cx="120" cy="165" rx="15" ry="25" fill="#D2691E"/>
+  
+  <!-- Eyes -->
+  <circle cx="115" cy="135" r="3" fill="#000"/>
+  <circle cx="125" cy="135" r="3" fill="#000"/>
+  
+  <!-- Ears -->
+  <ellipse cx="95" cy="140" rx="12" ry="20" fill="#CD853F"/>
+  <ellipse cx="145" cy="140" rx="12" ry="20" fill="#CD853F"/>
+  
+  <!-- Legs -->
+  <rect x="100" y="200" width="8" height="20" fill="#8B4513" rx="4"/>
+  <rect x="112" y="200" width="8" height="20" fill="#8B4513" rx="4"/>
+  <rect x="124" y="200" width="8" height="20" fill="#8B4513" rx="4"/>
+  <rect x="136" y="200" width="8" height="20" fill="#8B4513" rx="4"/>
+  
+  <!-- Small elephant -->
+  <ellipse cx="200" cy="190" rx="30" ry="25" fill="#8B4513"/>
+  <ellipse cx="200" cy="187" rx="25" ry="20" fill="#D2691E"/>
+  
+  <!-- Small elephant head -->
+  <circle cx="200" cy="160" r="18" fill="#D2691E"/>
+  <ellipse cx="200" cy="175" rx="10" ry="18" fill="#D2691E"/>
+  
+  <!-- Small elephant eyes -->
+  <circle cx="196" cy="157" r="2" fill="#000"/>
+  <circle cx="204" cy="157" r="2" fill="#000"/>
+  
+  <!-- Small elephant ears -->
+  <ellipse cx="182" cy="160" rx="8" ry="15" fill="#CD853F"/>
+  <ellipse cx="218" cy="160" rx="8" ry="15" fill="#CD853F"/>
+  
+  <!-- Small elephant legs -->
+  <rect x="188" y="205" width="6" height="15" fill="#8B4513" rx="3"/>
+  <rect x="196" y="205" width="6" height="15" fill="#8B4513" rx="3"/>
+  <rect x="204" y="205" width="6" height="15" fill="#8B4513" rx="3"/>
+  <rect x="212" y="205" width="6" height="15" fill="#8B4513" rx="3"/>
+  
+  <!-- Decorative patterns -->
+  <circle cx="120" cy="175" r="4" fill="#FFD700"/>
+  <circle cx="110" cy="185" r="3" fill="#FF6347"/>
+  <circle cx="130" cy="185" r="3" fill="#32CD32"/>
+  
+  <circle cx="200" cy="187" r="3" fill="#FFD700"/>
+  <circle cx="195" cy="195" r="2" fill="#FF6347"/>
+  <circle cx="205" cy="195" r="2" fill="#32CD32"/>
+  
+  <!-- Traditional border -->
+  <path d="M 20 20 L 280 20 L 280 280 L 20 280 Z" fill="none" stroke="#C96B3B" stroke-width="2" opacity="0.3"/>
+  
+  <text x="150" y="50" font-family="Arial, sans-serif" font-size="16" fill="#C96B3B" text-anchor="middle" font-weight="bold">Elephant Family Set</text>
+  <text x="150" y="270" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Hand-painted Sawantwadi Style</text>
+</svg>

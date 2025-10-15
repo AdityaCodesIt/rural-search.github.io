@@ -1,0 +1,52 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Toaster base -->
+  <rect x="80" y="140" width="140" height="100" fill="#87CEEB" rx="8"/>
+  <rect x="85" y="145" width="130" height="90" fill="#4682B4" rx="6"/>
+  
+  <!-- Toaster slots -->
+  <rect x="100" y="160" width="25" height="60" fill="#2F4F4F" rx="3"/>
+  <rect x="135" y="160" width="25" height="60" fill="#2F4F4F" rx="3"/>
+  <rect x="170" y="160" width="25" height="60" fill="#2F4F4F" rx="3"/>
+  
+  <!-- Bread slices popping up -->
+  <rect x="102" y="140" width="21" height="25" fill="#DEB887" rx="2"/>
+  <rect x="104" y="142" width="17" height="21" fill="#F5DEB3" rx="1"/>
+  
+  <rect x="137" y="135" width="21" height="30" fill="#DEB887" rx="2"/>
+  <rect x="139" y="137" width="17" height="26" fill="#F5DEB3" rx="1"/>
+  
+  <rect x="172" y="138" width="21" height="27" fill="#DEB887" rx="2"/>
+  <rect x="174" y="140" width="17" height="23" fill="#F5DEB3" rx="1"/>
+  
+  <!-- Control knob -->
+  <circle cx="230" cy="180" r="8" fill="#C0C0C0"/>
+  <circle cx="230" cy="180" r="6" fill="#A9A9A9"/>
+  <line x1="230" y1="174" x2="230" y2="178" stroke="#696969" stroke-width="2"/>
+  
+  <!-- Power button -->
+  <rect x="225" y="200" width="10" height="6" fill="#FF6347" rx="1"/>
+  
+  <!-- Kitchen counter -->
+  <rect x="50" y="240" width="200" height="20" fill="#8B4513"/>
+  <rect x="50" y="245" width="200" height="15" fill="#D2691E"/>
+  
+  <!-- Kitchen accessories -->
+  <rect x="60" y="220" width="15" height="20" fill="#FFD700"/>
+  <rect x="62" y="222" width="11" height="16" fill="#FFA500"/>
+  
+  <circle cx="270" cy="230" r="8" fill="#C0C0C0"/>
+  <circle cx="270" cy="230" r="6" fill="#E6E6FA"/>
+  
+  <!-- Steam lines -->
+  <path d="M 110 135 Q 112 125 110 120" stroke="#E0E0E0" stroke-width="2" fill="none"/>
+  <path d="M 115 130 Q 117 120 115 115" stroke="#E0E0E0" stroke-width="2" fill="none"/>
+  <path d="M 145 130 Q 147 120 145 115" stroke="#E0E0E0" stroke-width="2" fill="none"/>
+  <path d="M 150 125 Q 152 115 150 110" stroke="#E0E0E0" stroke-width="2" fill="none"/>
+  <path d="M 180 133 Q 182 123 180 118" stroke="#E0E0E0" stroke-width="2" fill="none"/>
+  <path d="M 185 128 Q 187 118 185 113" stroke="#E0E0E0" stroke-width="2" fill="none"/>
+  
+  <text x="150" y="40" font-family="Arial, sans-serif" font-size="16" fill="#C96B3B" text-anchor="middle" font-weight="bold">Wooden Bread Toaster</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Kitchen Pretend Play Set</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Main toy figure -->
+  <circle cx="150" cy="120" r="35" fill="#D2691E"/>
+  <circle cx="140" cy="110" r="4" fill="#000"/>
+  <circle cx="160" cy="110" r="4" fill="#000"/>
+  <path d="M 135 125 Q 150 135 165 125" stroke="#000" stroke-width="2" fill="none"/>
+  
+  <!-- Body -->
+  <rect x="130" y="150" width="40" height="60" fill="#8B4513" rx="5"/>
+  <rect x="135" y="155" width="30" height="50" fill="#D2691E" rx="3"/>
+  
+  <!-- Decorative patterns -->
+  <circle cx="145" cy="170" r="3" fill="#FFD700"/>
+  <circle cx="155" cy="170" r="3" fill="#FF6347"/>
+  <circle cx="145" cy="185" r="3" fill="#32CD32"/>
+  <circle cx="155" cy="185" r="3" fill="#1E90FF"/>
+  <circle cx="150" cy="200" r="3" fill="#FF69B4"/>
+  
+  <!-- Arms -->
+  <ellipse cx="115" cy="170" rx="8" ry="20" fill="#D2691E"/>
+  <ellipse cx="185" cy="170" rx="8" ry="20" fill="#D2691E"/>
+  
+  <!-- Legs -->
+  <rect x="135" y="210" width="12" height="30" fill="#8B4513" rx="6"/>
+  <rect x="153" y="210" width="12" height="30" fill="#8B4513" rx="6"/>
+  
+  <!-- Traditional patterns around -->
+  <path d="M 50 50 L 60 40 L 70 50 L 60 60 Z" fill="#C96B3B" opacity="0.6"/>
+  <path d="M 230 50 L 240 40 L 250 50 L 240 60 Z" fill="#2D6A4F" opacity="0.6"/>
+  <path d="M 50 250 L 60 240 L 70 250 L 60 260 Z" fill="#FFD700" opacity="0.6"/>
+  <path d="M 230 250 L 240 240 L 250 250 L 240 260 Z" fill="#FF6347" opacity="0.6"/>
+  
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="12" fill="#C96B3B" text-anchor="middle" font-weight="bold">Sawantwadi Craft</text>
+</svg>

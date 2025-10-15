@@ -1,0 +1,89 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Car 1 (Bus) -->
+  <rect x="60" y="120" width="60" height="30" fill="#FF6347" rx="5"/>
+  <rect x="65" y="125" width="50" height="20" fill="#FFD700" rx="3"/>
+  
+  <!-- Bus windows -->
+  <rect x="70" y="130" width="8" height="8" fill="#87CEEB"/>
+  <rect x="82" y="130" width="8" height="8" fill="#87CEEB"/>
+  <rect x="94" y="130" width="8" height="8" fill="#87CEEB"/>
+  <rect x="106" y="130" width="8" height="8" fill="#87CEEB"/>
+  
+  <!-- Bus wheels -->
+  <circle cx="75" cy="155" r="8" fill="#2F4F4F"/>
+  <circle cx="75" cy="155" r="5" fill="#696969"/>
+  <circle cx="105" cy="155" r="8" fill="#2F4F4F"/>
+  <circle cx="105" cy="155" r="5" fill="#696969"/>
+  
+  <!-- Car 2 (Truck) -->
+  <rect x="150" y="110" width="40" height="25" fill="#32CD32" rx="3"/>
+  <rect x="190" y="120" width="30" height="15" fill="#228B22" rx="2"/>
+  
+  <!-- Truck cab windows -->
+  <rect x="155" y="115" width="12" height="10" fill="#87CEEB"/>
+  <rect x="170" y="115" width="12" height="10" fill="#87CEEB"/>
+  
+  <!-- Truck bed -->
+  <rect x="195" y="125" width="20" height="10" fill="#ADFF2F"/>
+  
+  <!-- Truck wheels -->
+  <circle cx="165" cy="140" r="6" fill="#2F4F4F"/>
+  <circle cx="165" cy="140" r="4" fill="#696969"/>
+  <circle cx="205" cy="140" r="6" fill="#2F4F4F"/>
+  <circle cx="205" cy="140" r="4" fill="#696969"/>
+  
+  <!-- Car 3 (Small car) -->
+  <ellipse cx="90" cy="200" rx="25" ry="15" fill="#1E90FF"/>
+  <ellipse cx="90" cy="195" rx="20" ry="12" fill="#4169E1"/>
+  
+  <!-- Small car windows -->
+  <ellipse cx="85" cy="195" rx="6" ry="4" fill="#87CEEB"/>
+  <ellipse cx="95" cy="195" rx="6" ry="4" fill="#87CEEB"/>
+  
+  <!-- Small car wheels -->
+  <circle cx="75" cy="210" r="5" fill="#2F4F4F"/>
+  <circle cx="75" cy="210" r="3" fill="#696969"/>
+  <circle cx="105" cy="210" r="5" fill="#2F4F4F"/>
+  <circle cx="105" cy="210" r="3" fill="#696969"/>
+  
+  <!-- Car 4 (Sports car) -->
+  <path d="M 180 180 Q 200 175 220 180 L 220 195 Q 200 200 180 195 Z" fill="#FF69B4"/>
+  <path d="M 185 180 Q 200 178 215 180 L 215 190 Q 200 192 185 190 Z" fill="#FF1493"/>
+  
+  <!-- Sports car windows -->
+  <ellipse cx="195" cy="185" rx="8" ry="3" fill="#87CEEB"/>
+  <ellipse cx="205" cy="185" rx="6" ry="3" fill="#87CEEB"/>
+  
+  <!-- Sports car wheels -->
+  <circle cx="190" cy="200" r="5" fill="#2F4F4F"/>
+  <circle cx="190" cy="200" r="3" fill="#696969"/>
+  <circle cx="210" cy="200" r="5" fill="#2F4F4F"/>
+  <circle cx="210" cy="200" r="3" fill="#696969"/>
+  
+  <!-- Road -->
+  <rect x="40" y="220" width="220" height="15" fill="#708090"/>
+  <rect x="40" y="225" width="220" height="5" fill="#778899"/>
+  
+  <!-- Road markings -->
+  <rect x="60" y="227" width="15" height="1" fill="#FFF"/>
+  <rect x="90" y="227" width="15" height="1" fill="#FFF"/>
+  <rect x="120" y="227" width="15" height="1" fill="#FFF"/>
+  <rect x="150" y="227" width="15" height="1" fill="#FFF"/>
+  <rect x="180" y="227" width="15" height="1" fill="#FFF"/>
+  <rect x="210" y="227" width="15" height="1" fill="#FFF"/>
+  
+  <!-- Motion lines -->
+  <path d="M 40 125 Q 50 120 60 125" stroke="#FFD700" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 130 115 Q 140 110 150 115" stroke="#32CD32" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 60 195 Q 70 190 80 195" stroke="#1E90FF" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 160 185 Q 170 180 180 185" stroke="#FF69B4" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="40" cy="60" r="8" fill="#FFD700" opacity="0.5"/>
+  <circle cx="260" cy="70" r="6" fill="#FF6347" opacity="0.5"/>
+  
+  <text x="150" y="35" font-family="Arial, sans-serif" font-size="16" fill="#C96B3B" text-anchor="middle" font-weight="bold">Wooden Car Toy Set</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Push Pull Car Collection</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF6EC"/>
+  
+  <!-- Male doll (left) -->
+  <circle cx="100" cy="120" r="20" fill="#FDBCB4"/>
+  <circle cx="95" cy="115" r="2" fill="#000"/>
+  <circle cx="105" cy="115" r="2" fill="#000"/>
+  <path d="M 92 125 Q 100 130 108 125" stroke="#000" stroke-width="1" fill="none"/>
+  
+  <!-- Male body -->
+  <rect x="85" y="140" width="30" height="50" fill="#228B22" rx="5"/>
+  <rect x="88" y="143" width="24" height="44" fill="#32CD32" rx="3"/>
+  
+  <!-- Male arms -->
+  <ellipse cx="75" cy="155" rx="6" ry="15" fill="#FDBCB4"/>
+  <ellipse cx="125" cy="155" rx="6" ry="15" fill="#FDBCB4"/>
+  
+  <!-- Male legs -->
+  <rect x="90" y="190" width="8" height="25" fill="#8B4513" rx="4"/>
+  <rect x="102" y="190" width="8" height="25" fill="#8B4513" rx="4"/>
+  
+  <!-- Male traditional dress details -->
+  <circle cx="95" cy="155" r="2" fill="#FFD700"/>
+  <circle cx="105" cy="155" r="2" fill="#FFD700"/>
+  <circle cx="100" cy="170" r="2" fill="#FFD700"/>
+  
+  <!-- Female doll (right) -->
+  <circle cx="200" cy="120" r="20" fill="#FDBCB4"/>
+  <circle cx="195" cy="115" r="2" fill="#000"/>
+  <circle cx="205" cy="115" r="2" fill="#000"/>
+  <path d="M 192 125 Q 200 130 208 125" stroke="#000" stroke-width="1" fill="none"/>
+  
+  <!-- Female hair -->
+  <path d="M 180 110 Q 200 100 220 110 Q 210 120 200 115 Q 190 120 180 110" fill="#654321"/>
+  
+  <!-- Female body (saree) -->
+  <path d="M 185 140 Q 200 135 215 140 L 215 190 Q 200 195 185 190 Z" fill="#DC143C"/>
+  <path d="M 188 143 Q 200 138 212 143 L 212 187 Q 200 192 188 187 Z" fill="#FF69B4"/>
+  
+  <!-- Female arms -->
+  <ellipse cx="175" cy="155" rx="6" ry="15" fill="#FDBCB4"/>
+  <ellipse cx="225" cy="155" rx="6" ry="15" fill="#FDBCB4"/>
+  
+  <!-- Female legs -->
+  <rect x="190" y="190" width="8" height="25" fill="#8B4513" rx="4"/>
+  <rect x="202" y="190" width="8" height="25" fill="#8B4513" rx="4"/>
+  
+  <!-- Saree decorations -->
+  <circle cx="195" cy="155" r="2" fill="#FFD700"/>
+  <circle cx="205" cy="155" r="2" fill="#FFD700"/>
+  <circle cx="200" cy="170" r="2" fill="#FFD700"/>
+  <path d="M 188 160 L 212 160" stroke="#FFD700" stroke-width="1"/>
+  <path d="M 188 175 L 212 175" stroke="#FFD700" stroke-width="1"/>
+  
+  <!-- Traditional patterns around -->
+  <circle cx="50" cy="80" r="8" fill="#FF6347" opacity="0.6"/>
+  <circle cx="250" cy="90" r="6" fill="#32CD32" opacity="0.6"/>
+  <circle cx="40" cy="220" r="10" fill="#FFD700" opacity="0.6"/>
+  <circle cx="260" cy="210" r="7" fill="#1E90FF" opacity="0.6"/>
+  
+  <!-- Decorative border elements -->
+  <path d="M 60 50 L 70 40 L 80 50 L 70 60 Z" fill="#C96B3B" opacity="0.5"/>
+  <path d="M 220 50 L 230 40 L 240 50 L 230 60 Z" fill="#2D6A4F" opacity="0.5"/>
+  <path d="M 60 250 L 70 240 L 80 250 L 70 260 Z" fill="#FFD700" opacity="0.5"/>
+  <path d="M 220 250 L 230 240 L 240 250 L 230 260 Z" fill="#FF6347" opacity="0.5"/>
+  
+  <text x="150" y="35" font-family="Arial, sans-serif" font-size="16" fill="#C96B3B" text-anchor="middle" font-weight="bold">Channapatna Dolls</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Traditional Wooden Figurines</text>
+</svg>
