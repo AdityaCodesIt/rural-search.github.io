@@ -223,8 +223,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support and queries:
-- **Email**: support@ruralreach.com
-- **Phone**: +91 98765 43210
+- **Email**: adityadwivedi0504@gmail.com
+- **Phone**: +91 7045133818
 - **Address**: Mumbai, Maharashtra, India
 
 ---
